@@ -1,0 +1,12 @@
+1. Go to https://github.com and log in.
+2. Create a new repository named: alphatron-legal
+3. Upload all files from this folder (not the folder itself).
+4. Commit the changes.
+5. Go to "Settings > Pages", select:
+   - Branch: main
+   - Folder: / (root)
+6. Save settings. After a few seconds, your site will be live at:
+
+   https://yourusername.github.io/alphatron-legal/
+
+You can now use these links inside your app or on Google Play.
